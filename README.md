@@ -13,3 +13,11 @@ Sample website with plenty of files for demos to show how it all work
 ## How To Contribute
 
 You can contribute by following the iinstructor's instructions.
+
+## Tools
+
+The following tools are also used in this demonstration:
+- TextMate
+- P4Merge
+
+Both tools have been incorporated into git via the .gitconfig file.
