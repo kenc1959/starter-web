@@ -1,10 +1,10 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. 
 
 ## Introduction
 
-This starter web repo is structure to show how various git commands work and standard git workflow
+This starter web repo is structure to show how various git commands work and standard git workflow. A number of changes are made to this file with some commit and some push and finally a non-commit change is made to demonstrate the most basic diff and merge tool usage.
 
 ## Purpose
 
