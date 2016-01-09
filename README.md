@@ -8,11 +8,11 @@ This starter web repo is structure to show how various git commands work and sta
 
 ## Purpose
 
-Sample website with plenty of files for demos to show how it all work
+Sample website with plenty of files for demos to show how it all work. However, real life situation could be different due to the fact that files could be changed by other tools and not by the user.
 
 ## How To Contribute
 
-You can contribute by following the iinstructor's instructions.
+You can contribute by following the iinstructor's instructions and provding feedbacks.
 
 ## Tools
 
